@@ -1,4 +1,4 @@
-#Exercícios da Disciplina de Algoritmos e Estruturas de Dados I
+Exercícios da Disciplina de Algoritmos e Estruturas de Dados I
 
 Nome: Andriei Roshild da Silva
 
